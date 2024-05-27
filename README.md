@@ -27,13 +27,13 @@ youtubeリンク(操作動画)：https://youtu.be/bbNiJO8J8Q0?si=iRPlruhfoIqlK8_
 
 
 ## 仕組み（発表資料）
-![alt text](images/スライド1.PNG)
-![alt text](images/スライド2.PNG)
-![alt text](images/スライド3.PNG)
-![alt text](images/スライド4.PNG)
-![alt text](images/スライド5.PNG)
-![alt text](images/スライド6.PNG)
-![alt text](images/スライド7.PNG)
-![alt text](images/スライド8.PNG)
-![alt text](images/スライド9.PNG)
+<img src="images/スライド1.PNG" width="50%">
+<img src="images/スライド2.PNG" width="50%">
+<img src="images/スライド3.PNG" width="50%">
+<img src="images/スライド4.PNG" width="50%">
+<img src="images/スライド5.PNG" width="50%">
+<img src="images/スライド6.PNG" width="50%">
+<img src="images/スライド7.PNG" width="50%">
+<img src="images/スライド8.PNG" width="50%">
+<img src="images/スライド9.PNG" width="50%">
 
