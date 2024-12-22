@@ -8,6 +8,9 @@
 
  **<span style="color: yellow;">校内の産学連携プロジェクト　1位</span>**
 
+  **<span style="color: yellow;">U-22 プログラミング・コンテスト2024 一次審査進出</span>**<br>
+コンテストサイト：https://u22procon.com/report/all.html
+
 ## 概要
 旅行の道中を楽しむためのアプリ<br>
 周辺の観光スポットの情報を自動で取得し、子どもにもわかる言葉に要約後、読み上げを行う
